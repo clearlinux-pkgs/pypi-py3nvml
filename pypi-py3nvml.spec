@@ -4,7 +4,7 @@
 #
 Name     : pypi-py3nvml
 Version  : 0.2.7
-Release  : 2
+Release  : 3
 URL      : https://github.com/fbcotter/py3nvml/archive/0.2.7.tar.gz
 Source0  : https://github.com/fbcotter/py3nvml/archive/0.2.7.tar.gz
 Summary  : Python 3 Bindings for the NVIDIA Management Library
@@ -79,7 +79,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1678812987
+export SOURCE_DATE_EPOCH=1678900016
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
