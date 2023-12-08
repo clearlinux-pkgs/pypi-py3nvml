@@ -7,7 +7,7 @@
 #
 Name     : pypi-py3nvml
 Version  : 0.2.7
-Release  : 6
+Release  : 7
 URL      : https://github.com/fbcotter/py3nvml/archive/0.2.7.tar.gz
 Source0  : https://github.com/fbcotter/py3nvml/archive/0.2.7.tar.gz
 Summary  : No detailed summary available
@@ -63,6 +63,7 @@ python components for the pypi-py3nvml package.
 Summary: python3 components for the pypi-py3nvml package.
 Group: Default
 Requires: python3-core
+Provides: pypi(py3nvml)
 Requires: pypi(xmltodict)
 
 %description python3
