@@ -7,7 +7,7 @@
 #
 Name     : pypi-py3nvml
 Version  : 0.2.7
-Release  : 7
+Release  : 8
 URL      : https://github.com/fbcotter/py3nvml/archive/0.2.7.tar.gz
 Source0  : https://github.com/fbcotter/py3nvml/archive/0.2.7.tar.gz
 Summary  : No detailed summary available
